@@ -1,0 +1,19 @@
+{
+  "name": "mern-stack",
+  "version": "1.0.0",
+  "description": "MERN shopping kart app (MY_KART)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonxgilchrist/MyKart_MERN.git"
+  },
+  "author": "Jason Gilchrist P",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasonxgilchrist/MyKart_MERN/issues"
+  },
+  "homepage": "https://github.com/jasonxgilchrist/MyKart_MERN#readme"
+}
